@@ -22,5 +22,5 @@ Favorite things to do:
 
 Favorite Songs:
 
-- [We'll Be A Dream](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5L441bJlqd4wSogIp1WFj0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)
-- [My Home](<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1oQRhjoum0RXwBsuxMAvwT?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>)
+- [We'll Be A Dream](https://open.spotify.com/track/5L441bJlqd4wSogIp1WFj0?si=b8257325f8224705)
+- [My Home](https://open.spotify.com/track/1oQRhjoum0RXwBsuxMAvwT?si=0043d5f9c19f4a9c)

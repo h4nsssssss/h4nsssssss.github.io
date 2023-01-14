@@ -10,7 +10,6 @@ Fun Facts About Me:
 
 - Soccer was my first sport
 - ENFJ-T
-- Don't have any allergies
 
 
 Favorite things to do:

@@ -12,6 +12,13 @@ Fun Facts About Me:
 - ENFJ-T
 
 
+Instruments that I play:
+
+- Ukulele
+- Kalimba
+- 
+
+
 Favorite things to do:
 
 - Playing basketball
@@ -26,6 +33,13 @@ Favorite Songs:
 - [Bukod-Tangi](https://open.spotify.com/track/66tKd60oZUTAK0PdmXJl09?si=2e4a85356cf04991)
 - [Fresh Eyes](https://open.spotify.com/track/5NDUXbMwcnTQp66tI2zcdR?si=eb3ee7dd7d684574)
 - [I'll Be Waiting](https://open.spotify.com/track/3fqBhOtYA62A5D20j8OaQY?si=88cd55da5a794af2)
+- [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S?si=R31t2ZYUTZCjZnHP4j2luA)
+
+
+
+Playlist:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/19puybgOMF8sED3m2PLPXl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Quotes that motivate me in **Life**
 

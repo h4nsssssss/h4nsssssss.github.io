@@ -11,13 +11,6 @@ Hans Ayo
 
 
 
-
-My Cousins
-> ![Cousins](https://scontent.fmnl25-3.fna.fbcdn.net/v/t1.15752-9/320947485_964297684533100_211499630199692904_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeF6dCN_LZ0Pu6_OYWkAKlP2szuXWLncuOKzO5dYudy44itzxG2dqSGXEU0GqmJeI9SXhUTUbTMhef7wCUHGwHQp&_nc_ohc=59ecGXbX39AAX9ophly&tn=h8ZBMGeXO1vxNlOh&_nc_ht=scontent.fmnl25-3.fna&oh=03_AdS6Sx4oYSM7XuRxKsX0chDWh9FmDNCumiE6qacl_wZVZg&oe=63EC3B62)
-
-
-
-
 Fun Facts About Me:
 
 - Soccer was my first sport
